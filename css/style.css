@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,700&family=Roboto:wght@700&display=swap');
+body{
+    background-color: #00ac96;
+}
+.heading{
+    margin-top: 20px;
+    color: white;
+    font-weight: 600 !important;
+    text-align: center;
+}
+.content{
+    background-color: #fff;
+    margin-top: 40px;
+    padding: 3rem .8rem 3rem .8rem;
+    box-shadow: 0 0 5px 5px rgba(0,0,0, .5);
+    border-radius: 8px;
+    
+}
+.sign-in{
+    font-family: normal;
+    font-weight: 600 !important;
+}
+.form-control{
+    display: block;
+    width: 100%;
+    font-size: 1rem;
+    line-height: 1.5;
+    font-weight: 400;
+    border-color: #00ac96 !important;
+    border-style: solid;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+}
+.btn-class{
+    border-color: #00ac96;
+    color: #00ac96;
+}
+.btn-class:hover{
+    background-color: #1ee7cc;
+}
